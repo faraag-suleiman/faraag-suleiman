@@ -13,8 +13,8 @@
 
 
 
-- 🏢 **Mansoura University - Faculty of Engineering**
-- 👨‍💻 ****, currently studying frontend development through Almdrasa.
+- 🏢 **Sohag University - Faculty of Commerce**
+- 👨‍💻 **I hope to be one of the best in programming**, currently studying frontend development through Almdrasa.
 
 - 🎯 **Career Goals**:
   - **Short-term**: Complete the frontend development diploma from Almdrasa.
